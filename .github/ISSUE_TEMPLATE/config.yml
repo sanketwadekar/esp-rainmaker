@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ESP Rainmaker API Guide
+    url: https://rainmaker.espressif.com/docs/api.html
+    about: Documentation for using Rainmaker APIs
+  - name: Espressif Forum
+    url: https://www.esp32.com/viewforum.php?f=41
+    about: For asking questions to the community about using ESP Rainmaker, create a discussion topic here.
